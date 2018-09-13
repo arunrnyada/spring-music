@@ -3,3 +3,9 @@
 spring:
   jpa:
     generate-ddl: true
+security:
+  basic:
+    enabled: true
+  user:
+    name: test123
+    password: test123
